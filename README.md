@@ -51,9 +51,22 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DheerajDev-leper&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajDev-leper&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DheerajDev-leper&show_icons=true&theme=tokyonight" alt="DheerajDev-leper's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DheerajDev-leper&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="Top Languages" />
 </p>
+
+<!--
+Note: github-readme-stats.vercel.app is a free shared instance and can be
+rate-limited or slow to respond, which shows up as a broken-image icon.
+If badges above don't load:
+  1. Just refresh the page / clear cache — often temporary.
+  2. Try the mirror: https://github-readme-stats-sigma-five.vercel.app
+     (swap the domain in the src URLs above).
+  3. As a permanent fix, deploy your own free instance by forking
+     https://github.com/anuraghazra/github-readme-stats to Vercel,
+     then point the src URLs at your own deployment domain.
+-->
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DheerajDev-leper&theme=tokyonight" />
